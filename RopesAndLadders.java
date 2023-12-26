@@ -1,5 +1,5 @@
 // Question 6
-public class RopesAndLadders1 {
+public class RopesAndLadders {
     public static void main(String[] args) {
         int dice = 0;
         int rolls = 0;
