@@ -21,8 +21,7 @@
 ### RollTenRolls1.java
 ### RollTenRolls2.java
 ### RollTenRolls3.java
-### RopesAndLadders1.java
-### RopesAndLadders2.java
+### RopesAndLadders.java
 ### FairDice.java
 ### LoopsTest.java
 
