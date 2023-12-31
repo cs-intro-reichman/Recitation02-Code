@@ -9,8 +9,7 @@ public class CharRunCount {
                 count++;
             }
 		}
-        System.out.print("the char: " + ch + " appears " + count);
-        System.out.println(" times in the word: " + word);
+        System.out.println("the char: " + ch + " appears " + count + " times in the word: " + word);
     }
 }
         

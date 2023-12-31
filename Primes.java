@@ -1,11 +1,11 @@
 // Question 4
 public class Primes {
     public static void main(String[] args){
-        int num = Integer.parseInt(args[0]);
-        boolean isPrime = true;
+        int num = Integer.parseInt(args[0]); 
+        boolean isPrime = num > 1; 
        
         for (int i = 2; i < num && isPrime; i++){ 
-            isPrime = (num % i != 0);
+            isPrime = (num % i != 0); 
         }
    
         if (isPrime){
